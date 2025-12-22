@@ -1,4 +1,4 @@
-<img width="1397" height="788" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/842538d3-79bc-427d-9a3f-b586a24aabdc" />
+
 <img width="1373" height="793" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/affd5cc3-aa34-448b-977a-a6186658e476" />
 
 🚖 OLA Ride Booking Analysis | SQL & Power BI
